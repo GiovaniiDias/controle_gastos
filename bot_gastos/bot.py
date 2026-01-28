@@ -58,6 +58,7 @@ CATEGORIAS = {
     "transporte": ["uber", "ônibus", "onibus", "taxi", "combustivel"],
     "vestuário": ["camisa", "roupa", "calça", "sapato"],
     "renda": ["salario", "salário", "pagamento"],
+    "extra": ["bla", "bla bla", "bla bla car", "venda", "vendi"],
 }
 
 def detectar_tipo(texto):
